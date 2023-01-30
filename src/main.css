@@ -1,0 +1,46 @@
+.main{
+    height: 30rem;
+    margin: 0 3rem;
+    text-align: left;
+    font-size: 2rem;
+    color:rgb(8, 8, 8);
+    text-shadow: 0 0 1rem white;
+    font-weight: 500;
+}
+
+/* City, day, time and temperature section */
+
+.main .city{
+    padding-top: 5rem;
+    line-height: 3rem;
+}
+
+.main .day{
+    line-height: 3rem;
+}
+.main .temp{
+    font-size: 9rem;
+    color:rgb(1, 1, 1);
+    font-weight: 400;
+}
+.temp span{
+    padding-left: 1rem;
+    font-size: 6rem;
+    position: relative;
+    bottom: 1.5rem;
+   
+}
+
+/* Weather section */
+
+.weather{
+    margin-top: 4rem;
+    line-height: 3rem;
+}
+
+.weather .icon img{
+    width: 3rem;
+    position: relative;
+    top:1rem;
+    margin: 0 0.5rem;
+}
