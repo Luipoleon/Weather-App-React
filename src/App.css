@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   margin: 3rem auto;
-  width: 40rem;
+  width: min(40rem,100%);
   position: relative;
   border: 0.1rem solid rgba(0, 0, 0, 0.439);
   box-shadow: 0.1rem 0.1rem 0.2rem black;
